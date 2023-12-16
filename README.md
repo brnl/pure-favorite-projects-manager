@@ -35,4 +35,7 @@ Once installed, the Pure Favorite Projects Manager will automatically run when t
 For support, issues, or feature requests, please open an issue in the GitHub project.
 
 ## License
-This project is licensed under the GPL v3 License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3 (GPLv3) - see the [LICENSE](LICENSE) file for details.
+
+## Disclaimer
+This add-on is an independent project and is not officially associated with the Pure time writing web interface. Users should be aware of their organization's policies regarding the use of browser extensions and custom scripts.
