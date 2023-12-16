@@ -2,12 +2,7 @@
 
 ## Overview
 
-| ![BM Pure Favorite Projects Manager Logo](assets/logo.png) | BM Pure Favorite Projects Manager is a JavaScript add-on designed to enhance the user experience of the Pure time administration web interface. It allows users to mark projects as favorites, which are then automatically expanded for easy access upon loading the website. This add-on simplifies navigation and improves efficiency, especially for users who frequently work with specific projects. |
-| - | - |
-
-
-
-
+BM Pure Favorite Projects Manager is a JavaScript add-on designed to enhance the user experience of the Pure time administration web interface. It allows users to mark projects as favorites, which are then automatically expanded for easy access upon loading the website. This add-on simplifies navigation and improves efficiency, especially for users who frequently work with specific projects.
 
 ## Features
 - **Favorite Projects**: Mark and unmark projects as favorites with a simple click.
